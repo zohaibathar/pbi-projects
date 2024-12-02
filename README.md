@@ -3,3 +3,4 @@ This Power BI project provides a comprehensive analysis of ecommerce sales data,
 
 # Cover Photo
 https://github.com/zohaibathar/pbi-projects/blob/e9cf01ead44fdc5378d96525aff9ab7eb3d71e25/cover%20photo.png
+![cover photo](https://github.com/user-attachments/assets/ec377f38-d23d-471a-b5c3-99267edded00)
