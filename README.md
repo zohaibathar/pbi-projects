@@ -9,3 +9,5 @@ This Power BI project provides a comprehensive analysis of ecommerce sales data,
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYTcwYWY1MWEtNjlmMi00MTNlLWE4ZmQtMGQwNzQ3MjZmMWQ0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">Click Here to open the dashboard</a>
 
+<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
+
