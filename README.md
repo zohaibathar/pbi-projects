@@ -7,4 +7,5 @@ This Power BI project provides a comprehensive analysis of ecommerce sales data,
 
 # Interactive Dashboard
 
-https://app.powerbi.com/view?r=eyJrIjoiYTcwYWY1MWEtNjlmMi00MTNlLWE4ZmQtMGQwNzQ3MjZmMWQ0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYTcwYWY1MWEtNjlmMi00MTNlLWE4ZmQtMGQwNzQ3MjZmMWQ0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">Click Here to open the dashboard</a>
+
