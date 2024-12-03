@@ -1,5 +1,5 @@
 # About the Project
-This Power BI project provides a comprehensive analysis of ecommerce sales data, providing valuable insights into sales performance, profit distribution and customer behavior across different categories. The dashboard highlights key metrics, trends and comparisons, making it a powerful tool for strategic decision making
+This Power BI project provides a comprehensive analysis of ecommerce sales data, providing valuable insights into sales performance, profit distribution and customer behavior across different categories. The dashboard highlights key metrics, trends and comparisons, making it a powerful tool for strategic decision making.
 
 # Features
 **Key Metrics:** An overview of key figures such as total sales, profit / loss, orders placed, average order value and average fulfilment time </br></br>
@@ -27,17 +27,14 @@ Most Popular Category by Net Sales	Furniture
   <tr>
     <th>Company</th>
     <th>Contact</th>
-    <th>Country</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
     <td>Maria Anders</td>
-    <td>Germany</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
     <td>Francisco Chang</td>
-    <td>Mexico</td>
   </tr>
 </table>
 
