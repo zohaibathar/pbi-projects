@@ -23,6 +23,31 @@ Average Fulfilment Time (Days)	4.24
 Top Performing State	California
 Most Popular Category by Net Sales	Furniture
 
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
+# Repository Structure
+**Data:** Contains the sample dataset
+**Dashboard:** Power Bi (.pbix) file of the project
+**Image:** Contains screenshot of the dashboard for easy preview
+
+# Feedback
+Your feedback is welcome. Feel free to reach out
 
 # Dashboard Link
 ![cover photo](https://github.com/user-attachments/assets/ec377f38-d23d-471a-b5c3-99267edded00)
