@@ -17,7 +17,7 @@ This Power BI project provides a comprehensive analysis of ecommerce sales data,
 # Project Highlights
 Metric	Value
 Total Net Sales	59,690
-Total Profit / Loss	(1,030)
+Total Profit / (Loss)	(1,030)
 Average Order Value	2,390
 Average Fulfilment Time (Days)	4.24
 Top Performing State	California
@@ -25,16 +25,32 @@ Most Popular Category by Net Sales	Furniture
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
+    <th>Metric</th>
+    <th>Value</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
+    <td>Total Net Sales</td>
+    <td>59,690</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
+    <td>Total Profit / (Loss)</td>
+    <td>(1,030)</td>
+  </tr>
+  <tr>
+    <td>Average Order Value</td>
+    <td>2,390</td>
+  </tr>
+  <tr>
+    <td>Average Fulfilment Time (Days)</td>
+    <td>4.24</td>
+  </tr>
+  <tr>
+    <td>Top Performing State</td>
+    <td>California</td>
+  </tr>
+  <tr>
+    <td>Most Popular Category by Net Sales</td>
+    <td>Furniture</td>
   </tr>
 </table>
 
