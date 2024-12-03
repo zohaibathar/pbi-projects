@@ -47,14 +47,14 @@ This Power BI project provides a comprehensive analysis of ecommerce sales data,
 </table>
 
 # Repository Structure
-**Data:** Contains the sample dataset </br>
+**Data:** Contains the sample dataset (.csv) file</br>
 **Dashboard:** Power Bi (.pbix) file of the project</br>
 **Image:** Contains screenshot of the dashboard for easy preview
 
 # Feedback
 Your feedback is welcome. Feel free to reach out
 
-# Dashboard Link
+# Dashboard
 ![cover photo](https://github.com/user-attachments/assets/ec377f38-d23d-471a-b5c3-99267edded00)
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYTcwYWY1MWEtNjlmMi00MTNlLWE4ZmQtMGQwNzQ3MjZmMWQ0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">Click Here to open the interactive dashboard</a>
