@@ -13,6 +13,17 @@ This Power BI project provides a comprehensive analysis of ecommerce sales data,
 **Business driven** insights: Each visual is designed to answer specific business questions, such as identifying high profit categories and understanding customer purchasing trends </br></br>
 **Strategic value:** The insights derived from this dashboard can guide business strategies in sales optimization, regional targeting and inventory planning
 
+
+# Project Highlights
+Metric	Value
+Total Net Sales	59,690
+Total Profit / Loss	(1,030)
+Average Order Value	2,390
+Average Fulfilment Time (Days)	4.24
+Top Performing State	California
+Most Popular Category by Net Sales	Furniture
+
+
 # Dashboard Link
 ![cover photo](https://github.com/user-attachments/assets/ec377f38-d23d-471a-b5c3-99267edded00)
 
