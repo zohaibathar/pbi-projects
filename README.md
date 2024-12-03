@@ -8,6 +8,10 @@ Category Breakdown: A donut chart displaying the sales percertage of each catego
 Sales by Category & Segment: Detailed bar and donut chart analysis of category and sub category sales highlighting top selling items by customer segment
 Trend Analysis: Yearly trend analysis of net sales
 
+# Why this project stands out?
+**Visually engaging:** The dashboard features a combination of diverse visualization, including bar chart, line chart, donut chart, creating an interactive and insightful analysis </br>
+**Business driven** insights: Each visual is designed to answer specific business questions, such as identifying high profit categories and understanding customer purchasing trends </br>
+**Strategic value:** The insights derived from this dashboard can guide business strategies in sales optimization, regional targeting and inventory planning
 
 # Dashboard Link
 ![cover photo](https://github.com/user-attachments/assets/ec377f38-d23d-471a-b5c3-99267edded00)
