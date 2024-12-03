@@ -47,8 +47,8 @@ This Power BI project provides a comprehensive analysis of ecommerce sales data,
 </table>
 
 # Repository Structure
-**Data:** Contains the sample dataset
-**Dashboard:** Power Bi (.pbix) file of the project
+**Data:** Contains the sample dataset </br>
+**Dashboard:** Power Bi (.pbix) file of the project</br>
 **Image:** Contains screenshot of the dashboard for easy preview
 
 # Feedback
