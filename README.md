@@ -15,14 +15,6 @@ This Power BI project provides a comprehensive analysis of ecommerce sales data,
 
 
 # Project Highlights
-Metric	Value
-Total Net Sales	59,690
-Total Profit / (Loss)	(1,030)
-Average Order Value	2,390
-Average Fulfilment Time (Days)	4.24
-Top Performing State	California
-Most Popular Category by Net Sales	Furniture
-
 <table>
   <tr>
     <th>Metric</th>
