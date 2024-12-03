@@ -57,6 +57,4 @@ Your feedback is welcome. Feel free to reach out
 # Dashboard Link
 ![cover photo](https://github.com/user-attachments/assets/ec377f38-d23d-471a-b5c3-99267edded00)
 
-<iframe title="PBI Project" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYTcwYWY1MWEtNjlmMi00MTNlLWE4ZmQtMGQwNzQ3MjZmMWQ0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
-
-<a href="https://app.powerbi.com/view?r=eyJrIjoiYTcwYWY1MWEtNjlmMi00MTNlLWE4ZmQtMGQwNzQ3MjZmMWQ0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">Click Here to open the dashboard</a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYTcwYWY1MWEtNjlmMi00MTNlLWE4ZmQtMGQwNzQ3MjZmMWQ0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">Click Here to open the interactive dashboard</a>
